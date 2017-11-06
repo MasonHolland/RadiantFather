@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 0ad3677d2800f4d59bd19ce742cf3b07
+timeCreated: 1509924321
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Head_1
+    21300002: Head_2
+    21300004: Head_3
+    21300006: Head_4
+    21300008: Arm_Top_Close
+    21300010: Arm_Top_Far
+    21300012: Arm_Bot_Close
+    21300014: Arm_Bot_Far
+    21300016: Hand_Close_Open
+    21300018: Hand_Close_Closed
+    21300020: Head_5
+    21300022: Chest
+    21300024: Waist_Cloth
+    21300026: Waist_Back
+    21300028: Wasit_Front
+    21300030: Waist_Belt_Straight
+    21300032: Waist_Belt_Bent
+    21300034: Sheath
+    21300036: Sash
+    21300038: Leg_Lower_Far
+    21300040: Leg_Lower_Close
+    21300042: Leg_Upper_Close
+    21300044: Leg_Upper_Far
+    21300046: Shoulder_Close
+    21300048: Shoulder_Far
+    21300050: Hand_Far_Closed
+    21300052: Foot_Main_Close
+    21300054: Foot_Toe_Close
+    21300056: Foot_Main_Far
+    21300058: Foot_Toe_Far
+    21300060: Death_Mask
+    21300062: Head_6_Death_Clean
+    21300064: Head_6_Death
+    21300066: Head_1_Hit
+    21300068: Head_2_Hit
+    21300070: Head_3_Hit
+    21300072: Head_4_Hit
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Head_1
+      rect:
+        serializedVersion: 2
+        x: 891.29065
+        y: 3025.3655
+        width: 608.8607
+        height: 827.23
+      alignment: 9
+      pivot: {x: 0.1935605, y: 0.13026284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_2
+      rect:
+        serializedVersion: 2
+        x: 919.6529
+        y: 2049.6484
+        width: 580.2935
+        height: 804.0427
+      alignment: 9
+      pivot: {x: 0.20964785, y: 0.13981804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_3
+      rect:
+        serializedVersion: 2
+        x: 891.6111
+        y: 1117.0061
+        width: 622.89526
+        height: 859.7511
+      alignment: 9
+      pivot: {x: 0.20575568, y: 0.15065879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_4
+      rect:
+        serializedVersion: 2
+        x: 870.2397
+        y: 200.0573
+        width: 666.8477
+        height: 871.96014
+      alignment: 9
+      pivot: {x: 0.17816158, y: 0.1342952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Top_Close
+      rect:
+        serializedVersion: 2
+        x: 1690.364
+        y: 3837.4438
+        width: 408.52563
+        height: 949.56445
+      alignment: 9
+      pivot: {x: 0.5697849, y: 0.7536504}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Top_Far
+      rect:
+        serializedVersion: 2
+        x: 2241.4746
+        y: 3844.391
+        width: 359.99487
+        height: 848.31104
+      alignment: 9
+      pivot: {x: 0.3438302, y: 0.7764492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Bot_Close
+      rect:
+        serializedVersion: 2
+        x: 1666.7798
+        y: 2756.7737
+        width: 366.72656
+        height: 1015.1438
+      alignment: 9
+      pivot: {x: 0.51149017, y: 0.84159803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Arm_Bot_Far
+      rect:
+        serializedVersion: 2
+        x: 2146.782
+        y: 2762.965
+        width: 346.55615
+        height: 913.3672
+      alignment: 9
+      pivot: {x: 0.56309783, y: 0.8048093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand_Close_Open
+      rect:
+        serializedVersion: 2
+        x: 1720.8386
+        y: 1988.9069
+        width: 335.96997
+        height: 680.0575
+      alignment: 9
+      pivot: {x: 0.36554387, y: 0.91758513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand_Close_Closed
+      rect:
+        serializedVersion: 2
+        x: 2179.0933
+        y: 2119.555
+        width: 368.54175
+        height: 393.1316
+      alignment: 9
+      pivot: {x: 0.85295594, y: 0.7987011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_5
+      rect:
+        serializedVersion: 2
+        x: 1729.5022
+        y: 872.2903
+        width: 757.1948
+        height: 1096.607
+      alignment: 9
+      pivot: {x: 0.1488499, y: 0.28957862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chest
+      rect:
+        serializedVersion: 2
+        x: 2906.0544
+        y: 3352.5947
+        width: 693.6023
+        height: 1457.3276
+      alignment: 9
+      pivot: {x: 0.46220672, y: 0.4469354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Waist_Cloth
+      rect:
+        serializedVersion: 2
+        x: 2925.6487
+        y: 2964.1565
+        width: 648.3386
+        height: 310.82568
+      alignment: 9
+      pivot: {x: 0.51876736, y: 0.45638978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Waist_Back
+      rect:
+        serializedVersion: 2
+        x: 2913.3022
+        y: 1874.9745
+        width: 733.11816
+        height: 992.8949
+      alignment: 9
+      pivot: {x: 0.56762636, y: 0.917996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Wasit_Front
+      rect:
+        serializedVersion: 2
+        x: 3816.9175
+        y: 1859.7162
+        width: 618.21533
+        height: 965.5863
+      alignment: 9
+      pivot: {x: 0.5870974, y: 0.932689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Waist_Belt_Straight
+      rect:
+        serializedVersion: 2
+        x: 3853.6892
+        y: 4601.085
+        width: 799.4148
+        height: 200.62451
+      alignment: 9
+      pivot: {x: 0.50388205, y: 0.41470847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Waist_Belt_Bent
+      rect:
+        serializedVersion: 2
+        x: 3914.121
+        y: 4284.8125
+        width: 657
+        height: 251
+      alignment: 9
+      pivot: {x: 0.49133506, y: 0.40171152}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sheath
+      rect:
+        serializedVersion: 2
+        x: 4549.842
+        y: 1934.4465
+        width: 313.875
+        height: 2308.4988
+      alignment: 9
+      pivot: {x: 0.49250796, y: 0.96671224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sash
+      rect:
+        serializedVersion: 2
+        x: 3947.7588
+        y: 2897.219
+        width: 349.02197
+        height: 1248.635
+      alignment: 9
+      pivot: {x: 0.11119311, y: 0.9647185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Lower_Far
+      rect:
+        serializedVersion: 2
+        x: 4554.8926
+        y: 638.74774
+        width: 380.0205
+        height: 1048.8416
+      alignment: 9
+      pivot: {x: 0.7544258, y: 0.9072487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Lower_Close
+      rect:
+        serializedVersion: 2
+        x: 4008.4856
+        y: 548.4166
+        width: 402.88257
+        height: 1204.3352
+      alignment: 9
+      pivot: {x: 0.67467356, y: 0.9201102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Upper_Close
+      rect:
+        serializedVersion: 2
+        x: 3191.1
+        y: 556.2908
+        width: 661.9214
+        height: 1192.9596
+      alignment: 9
+      pivot: {x: 0.7517197, y: 0.93216646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Leg_Upper_Far
+      rect:
+        serializedVersion: 2
+        x: 2542.4138
+        y: 648.89374
+        width: 577.0742
+        height: 1050.6321
+      alignment: 9
+      pivot: {x: 0.7452176, y: 0.9107324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoulder_Close
+      rect:
+        serializedVersion: 2
+        x: 1619.3052
+        y: 87.590904
+        width: 569.3865
+        height: 484.5355
+      alignment: 9
+      pivot: {x: 0.5782971, y: 0.5237365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Shoulder_Far
+      rect:
+        serializedVersion: 2
+        x: 2268.4119
+        y: 87.29114
+        width: 232.65063
+        height: 414.72964
+      alignment: 9
+      pivot: {x: 0.45844686, y: 0.51512694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hand_Far_Closed
+      rect:
+        serializedVersion: 2
+        x: 2561.8525
+        y: 76.43825
+        width: 275.9519
+        height: 393.90753
+      alignment: 9
+      pivot: {x: 0.30359578, y: 0.9272248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot_Main_Close
+      rect:
+        serializedVersion: 2
+        x: 2935.0828
+        y: 21.481817
+        width: 576.0459
+        height: 415.4586
+      alignment: 9
+      pivot: {x: 0.314398, y: 0.801975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot_Toe_Close
+      rect:
+        serializedVersion: 2
+        x: 3597.9402
+        y: 48.77097
+        width: 368.89893
+        height: 220.93716
+      alignment: 9
+      pivot: {x: 0.27235028, y: 0.5011769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot_Main_Far
+      rect:
+        serializedVersion: 2
+        x: 4061.5862
+        y: 29.455708
+        width: 512.11255
+        height: 383.16974
+      alignment: 9
+      pivot: {x: 0.3809983, y: 0.76708424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Foot_Toe_Far
+      rect:
+        serializedVersion: 2
+        x: 4657.6504
+        y: 56.470184
+        width: 279.65283
+        height: 176.83469
+      alignment: 9
+      pivot: {x: 0.29493704, y: 0.47275642}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Death_Mask
+      rect:
+        serializedVersion: 2
+        x: 1880.9292
+        y: 618.6483
+        width: 515.14136
+        height: 245.08704
+      alignment: 9
+      pivot: {x: 0.5230228, y: 0.8484381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_6_Death_Clean
+      rect:
+        serializedVersion: 2
+        x: 898.90045
+        y: 3978.8755
+        width: 617.99994
+        height: 857
+      alignment: 9
+      pivot: {x: 0.17345709, y: 0.14264536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_6_Death
+      rect:
+        serializedVersion: 2
+        x: 172.08337
+        y: 3915.6206
+        width: 615
+        height: 900
+      alignment: 9
+      pivot: {x: 0.19379292, y: 0.1406543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_1_Hit
+      rect:
+        serializedVersion: 2
+        x: 172.0836
+        y: 3051.2385
+        width: 608.071
+        height: 825.52295
+      alignment: 9
+      pivot: {x: 0.20379542, y: 0.15676083}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_2_Hit
+      rect:
+        serializedVersion: 2
+        x: 182.6314
+        y: 2087.6147
+        width: 591.1516
+        height: 820.6821
+      alignment: 9
+      pivot: {x: 0.20064919, y: 0.20589264}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_3_Hit
+      rect:
+        serializedVersion: 2
+        x: 143.0536
+        y: 1158.1249
+        width: 622.89514
+        height: 859.7511
+      alignment: 9
+      pivot: {x: 0.22866087, y: 0.16084169}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Head_4_Hit
+      rect:
+        serializedVersion: 2
+        x: 98.36983
+        y: 179.6646
+        width: 666.84784
+        height: 871.96014
+      alignment: 9
+      pivot: {x: 0.1674292, y: 0.13302536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 98954387390464
+  assetBundleName: 
+  assetBundleVariant: 

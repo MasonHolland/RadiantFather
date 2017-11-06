@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ae0543fe805424df99fe08ce744cbe49, type: 3}
+  m_Name: SpiritIdle
+  m_EditorClassIdentifier: 
+  m_PoseEntries:
+  - path: Bones/Core
+    localPosition: {x: 0, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.53300774, w: -0.8461104}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/MidSection
+    localPosition: {x: 2.5204716, y: 0, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.53450936, w: 0.84516263}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/MidSection/MidTail
+    localPosition: {x: 2.106962, y: 0.00000023841858, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.8353283, w: 0.5497515}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/MidSection/MidTail/Tail
+    localPosition: {x: 4.9702945, y: -0.00000047683716, z: 0}
+    localRotation: {x: 0, y: 0, z: 0.18026109, w: 0.98361886}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/TopJaw
+    localPosition: {x: -0.88744116, y: 0.04440382, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.84028465, w: 0.5421456}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/BottomJaw
+    localPosition: {x: 0.6758218, y: -0.77109563, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.7015397, w: 0.71263045}
+    localScale: {x: 1, y: 1, z: 1}
+  - path: Bones/Core/Eye
+    localPosition: {x: -0.76489896, y: -2.110628, z: 0}
+    localRotation: {x: 0, y: 0, z: -0.8597667, w: 0.5106871}
+    localScale: {x: 1, y: 1, z: 1}
